@@ -1,5 +1,7 @@
 # TimeTracker Web App ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+This project was done in October, so it isn't the newest one. I just revealed it to the public. Although the API key might not work, the JS code is 100% written by me.
+
 ## Description
 
 TimeTracker is a simple interactive time tracking tool that allows users to add, edit, and delete tasks and their phases. The application is built on the Fetch API in JavaScript, enabling efficient communication with the server.
